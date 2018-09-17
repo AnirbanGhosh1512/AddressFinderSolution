@@ -1,0 +1,11 @@
+/Users/anirbanghosh/Downloads/AddressFinder-LatestSolution/AddressFinder.Domain/bin/Debug/netcoreapp2.1/AddressFinder.Domain.deps.json
+/Users/anirbanghosh/Downloads/AddressFinder-LatestSolution/AddressFinder.Domain/bin/Debug/netcoreapp2.1/AddressFinder.Domain.dll
+/Users/anirbanghosh/Downloads/AddressFinder-LatestSolution/AddressFinder.Domain/bin/Debug/netcoreapp2.1/AddressFinder.Domain.pdb
+/Users/anirbanghosh/Downloads/AddressFinder-LatestSolution/AddressFinder.Domain/bin/Debug/netcoreapp2.1/AddressFinder.Common.dll
+/Users/anirbanghosh/Downloads/AddressFinder-LatestSolution/AddressFinder.Domain/bin/Debug/netcoreapp2.1/AddressFinder.Common.pdb
+/Users/anirbanghosh/Downloads/AddressFinder-LatestSolution/AddressFinder.Domain/obj/Debug/netcoreapp2.1/AddressFinder.Domain.csprojResolveAssemblyReference.cache
+/Users/anirbanghosh/Downloads/AddressFinder-LatestSolution/AddressFinder.Domain/obj/Debug/netcoreapp2.1/AddressFinder.Domain.csproj.CoreCompileInputs.cache
+/Users/anirbanghosh/Downloads/AddressFinder-LatestSolution/AddressFinder.Domain/obj/Debug/netcoreapp2.1/AddressFinder.Domain.AssemblyInfoInputs.cache
+/Users/anirbanghosh/Downloads/AddressFinder-LatestSolution/AddressFinder.Domain/obj/Debug/netcoreapp2.1/AddressFinder.Domain.AssemblyInfo.cs
+/Users/anirbanghosh/Downloads/AddressFinder-LatestSolution/AddressFinder.Domain/obj/Debug/netcoreapp2.1/AddressFinder.Domain.dll
+/Users/anirbanghosh/Downloads/AddressFinder-LatestSolution/AddressFinder.Domain/obj/Debug/netcoreapp2.1/AddressFinder.Domain.pdb

@@ -1,0 +1,9 @@
+/Users/anirbanghosh/Downloads/AddressFinder-LatestSolution/AddressFinder.Tests/bin/Debug/netcoreapp2.1/AddressFinder.Tests.deps.json
+/Users/anirbanghosh/Downloads/AddressFinder-LatestSolution/AddressFinder.Tests/bin/Debug/netcoreapp2.1/AddressFinder.Tests.dll
+/Users/anirbanghosh/Downloads/AddressFinder-LatestSolution/AddressFinder.Tests/bin/Debug/netcoreapp2.1/AddressFinder.Tests.pdb
+/Users/anirbanghosh/Downloads/AddressFinder-LatestSolution/AddressFinder.Tests/obj/Debug/netcoreapp2.1/AddressFinder.Tests.csprojResolveAssemblyReference.cache
+/Users/anirbanghosh/Downloads/AddressFinder-LatestSolution/AddressFinder.Tests/obj/Debug/netcoreapp2.1/AddressFinder.Tests.csproj.CoreCompileInputs.cache
+/Users/anirbanghosh/Downloads/AddressFinder-LatestSolution/AddressFinder.Tests/obj/Debug/netcoreapp2.1/AddressFinder.Tests.AssemblyInfoInputs.cache
+/Users/anirbanghosh/Downloads/AddressFinder-LatestSolution/AddressFinder.Tests/obj/Debug/netcoreapp2.1/AddressFinder.Tests.AssemblyInfo.cs
+/Users/anirbanghosh/Downloads/AddressFinder-LatestSolution/AddressFinder.Tests/obj/Debug/netcoreapp2.1/AddressFinder.Tests.dll
+/Users/anirbanghosh/Downloads/AddressFinder-LatestSolution/AddressFinder.Tests/obj/Debug/netcoreapp2.1/AddressFinder.Tests.pdb

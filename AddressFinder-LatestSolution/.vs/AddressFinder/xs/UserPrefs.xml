@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{B0312B3F-4E88-4AED-8C9B-A33DFC6B6FB0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AddressFinder.WebApi/Controllers/AddressFinderController.cs">
+    <Files>
+      <File FileName="AddressFinder.Common/Utilities.cs" Line="20" Column="51" />
+      <File FileName="AddressFinder.Infrastructure/Repositories/AddressManager.cs" Line="47" Column="17" />
+      <File FileName="AddressFinder.WebApi/Controllers/AddressFinderController.cs" Line="56" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/anirbanghosh/Downloads/AddressFinder-LatestSolution/AddressFinder.Common/Utilities.cs" relfile="AddressFinder.Common/Utilities.cs" line="50" column="1" />
+      <Breakpoint file="/Users/anirbanghosh/Downloads/AddressFinder-LatestSolution/AddressFinder.Common/Utilities.cs" relfile="AddressFinder.Common/Utilities.cs" line="39" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AddressFinder.WebApi PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
